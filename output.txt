@@ -1,0 +1,81 @@
+Please enter your row choice:1
+Please enter your column choice:1
+Please enter if you are an X or an O:X
+ | X |  |   |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:1
+Please enter your column choice:2
+Please enter if you are an X or an O:0
+ | X |  | 0 |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:1
+Please enter your column choice:3
+Please enter if you are an X or an O:X
+ | X |  | 0 |  | X | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:2
+Please enter your column choice:1
+Please enter if you are an X or an O:0
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  |   |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:2
+Please enter your column choice:2
+Please enter if you are an X or an O:X
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  | X |  |   | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:2
+Please enter your column choice:3
+Please enter if you are an X or an O:O
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  | X |  | O | 
+--------------------
+ |   |  |   |  |   | 
+--------------------
+Please enter your row choice:3
+Please enter your column choice:1
+Please enter if you are an X or an O:X
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  | X |  | O | 
+--------------------
+ | X |  |   |  |   | 
+--------------------
+Please enter your row choice:3
+Please enter your column choice:2
+Please enter if you are an X or an O:0
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  | X |  | O | 
+--------------------
+ | X |  | 0 |  |   | 
+--------------------
+Please enter your row choice:3
+Please enter your column choice:3
+Please enter if you are an X or an O:X
+ | X |  | 0 |  | X | 
+--------------------
+ | 0 |  | X |  | O | 
+--------------------
+ | X |  | 0 |  | X | 
+--------------------
