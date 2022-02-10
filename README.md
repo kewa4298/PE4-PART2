@@ -1,2 +1,4 @@
 # PE4-PART2
-Teammates: Kent Waxman, Henry Dyer
+Teammates: 
+Person 1: Kent Waxman
+Person 2: Henry Dyer
