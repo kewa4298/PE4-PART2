@@ -10,6 +10,15 @@ class TicTacToe {
                 }
             }
         }
+
+        void DisplayBoard() {
+            for (int k = 0; k < 3; k++) {
+                for (int l = 0; l < 3; l++) {
+                    std::cout<< board_[k][l];
+                }
+                std::cout<<std::endl;
+            }
+        }
     private:
         std::string board_[3][3];
 };
